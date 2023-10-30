@@ -393,6 +393,7 @@ class Wannier90WorkChain(
             overrides=wannier_overrides,
             electronic_type=electronic_type,
             spin_type=spin_type,
+            pseudo_family=pseudo_family,
             projection_type=projection_type,
             disentanglement_type=disentanglement_type,
             frozen_type=frozen_type,

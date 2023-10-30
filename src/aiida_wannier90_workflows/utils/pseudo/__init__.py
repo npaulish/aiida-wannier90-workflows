@@ -69,6 +69,7 @@ def get_pseudo_orbitals(pseudos: ty.Mapping[str, PseudoPotentialData]) -> dict:
     pseudo_data.append(
         load_pseudo_metadata("semicore/PseudoDojo_0.4_LDA_SR_standard_upf.json")
     )
+    pseudo_data.append(load_pseudo_metadata("./soc_test.json"))
 
     pseudo_orbitals = {}
     for element in pseudos:

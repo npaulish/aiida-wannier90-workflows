@@ -330,7 +330,11 @@ class Wannier90BaseWorkChain(ProtocolMixin, BaseRestartWorkChain):
         if meta_parameters["exclude_semicore"]:
             pseudo_orbitals = get_pseudo_orbitals(pseudos)
             semicore_list = get_semicore_list(structure, pseudo_orbitals)
-            num_excludes = len(semicore_list)
+            # for spin-orbit coupling condition, every state have 2 electron
+            if spin_orbit_coupling:
+                num_excludes = len(semicore_list) * 2
+            else:
+                num_excludes = len(semicore_list)
             # TODO I assume all the semicore bands are the lowest  # pylint: disable=fixme
             exclude_pswfcs = range(1, num_excludes + 1)
             if num_excludes != 0:
