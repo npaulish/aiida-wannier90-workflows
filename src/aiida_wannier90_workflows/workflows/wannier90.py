@@ -364,6 +364,7 @@ class Wannier90WorkChain(
                 pseudo_family = Wannier90BaseWorkChain.get_protocol_inputs(
                     protocol=protocol
                 )["meta_parameters"]["pseudo_family"]
+        spin_orbit_coupling = spin_type == SpinType.SPIN_ORBIT
 
         # Prepare workchain builder
         # I need to use explicitly `Wannier90WorkChain.get_protocol_inputs()` instead of
@@ -486,7 +487,9 @@ class Wannier90WorkChain(
         exclude_projectors = None
         if exclude_semicore:
             pseudo_orbitals = get_pseudo_orbitals(builder["scf"]["pw"]["pseudos"])
-            exclude_projectors = get_semicore_list(structure, pseudo_orbitals)
+            exclude_projectors = get_semicore_list(
+                structure, pseudo_orbitals, spin_orbit_coupling
+            )
         pw2wannier90_overrides = overrides.get("projwfc", {})
         pw2wannier90_builder = Pw2wannier90BaseWorkChain.get_builder_from_protocol(
             code=codes["pw2wannier90"],
