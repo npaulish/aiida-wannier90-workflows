@@ -1,7 +1,7 @@
 {
   "H": {
-    "filename": "./H.rel-pbe-kjpaw_psl.1.0.0.UPF",
-    "md5": "4679e8d4d26c05a62918bf42f027569d",
+    "filename": "pseudo_install/H.rel-pbe-kjpaw_psl.1.0.0.UPF",
+    "md5": "037bf403638bd299dbaaf1173eb7767f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 221.0,
@@ -11,8 +11,8 @@
     "semicores": []
   },
   "He": {
-    "filename": "./He.rel-pbe-kjpaw_psl.1.0.0.UPF",
-    "md5": "e6d171ebad273ea83b568856bec7d12f",
+    "filename": "pseudo_install/He.rel-pbe-kjpaw_psl.1.0.0.UPF",
+    "md5": "afe997fbd81e4d085705fc8d3505622d",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 203.0,
@@ -22,8 +22,8 @@
     "semicores": []
   },
   "Li": {
-    "filename": "./Li.rel-pbe-sl-kjpaw_psl.1.0.0.UPF",
-    "md5": "4cc8f929f7ea80371a8fa2fe95f02ebe",
+    "filename": "pseudo_install/Li.rel-pbe-sl-kjpaw_psl.1.0.0.UPF",
+    "md5": "9a8f4f81f428697f6e12a9a20a0b1c43",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 50.0,
     "cutoff_rho": 325.0,
@@ -37,8 +37,8 @@
     ]
   },
   "Be": {
-    "filename": "./Be.rel-pbe-sl-kjpaw_psl.1.0.0.UPF",
-    "md5": "ac53fb4a0199cd7d1d484162edd6c468",
+    "filename": "pseudo_install/Be.rel-pbe-sl-kjpaw_psl.1.0.0.UPF",
+    "md5": "1e68d8743e8e6ffa5a3b0a77cc54e2fd",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 70.0,
     "cutoff_rho": 710.0,
@@ -52,8 +52,8 @@
     ]
   },
   "B": {
-    "filename": "./B.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "be703e8eaad7bcb0d8b2213a74610a9b",
+    "filename": "pseudo_install/B.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "a48664298749fd77b6d4a2ac3e2adea4",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 43.0,
     "cutoff_rho": 325.0,
@@ -64,8 +64,8 @@
     "semicores": []
   },
   "C": {
-    "filename": "./C.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "86f588e84214d328d217845c57ca798f",
+    "filename": "pseudo_install/C.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "dd2b8f743de1f3a10095e4114fb28074",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 40.0,
     "cutoff_rho": 326.0,
@@ -76,8 +76,8 @@
     "semicores": []
   },
   "N": {
-    "filename": "./N.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "1e59e7c84efd14e276c06a1bdb09d2e6",
+    "filename": "pseudo_install/N.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "ce13193a5f6649a469ffa31f3b7b4cff",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 44.0,
     "cutoff_rho": 320.0,
@@ -88,8 +88,8 @@
     "semicores": []
   },
   "O": {
-    "filename": "./O.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "8bf70bc3e21834035970540313ac0f17",
+    "filename": "pseudo_install/O.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "8d6a81564d6b023d29e58f26e74c0d2c",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 47.0,
     "cutoff_rho": 323.0,
@@ -100,8 +100,8 @@
     "semicores": []
   },
   "F": {
-    "filename": "./F.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "89d43f66814b999ceb42d535d385d5bb",
+    "filename": "pseudo_install/F.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "aadd520ad1d9d363ccca3cf2760e2cc2",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 49.0,
     "cutoff_rho": 316.0,
@@ -112,8 +112,8 @@
     "semicores": []
   },
   "Ne": {
-    "filename": "./Ne.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "2a7d24c1b31ee056085fb3b1402bbc0d",
+    "filename": "pseudo_install/Ne.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "f2a593411650ce398e62eb9459a52a1e",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 54.0,
     "cutoff_rho": 264.0,
@@ -124,8 +124,8 @@
     "semicores": []
   },
   "Na": {
-    "filename": "./Na.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
-    "md5": "03f6f3161c5bd02f82b11e42ceb9d8ba",
+    "filename": "pseudo_install/Na.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
+    "md5": "ab3da668fb837a757098f90f200778bd",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 66.0,
     "cutoff_rho": 323.0,
@@ -140,8 +140,8 @@
     ]
   },
   "Mg": {
-    "filename": "./Mg.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
-    "md5": "e30cbee05a9bcecd05024009a30e95d5",
+    "filename": "pseudo_install/Mg.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
+    "md5": "8f8702462a0e2779f1456d461402b56f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 58.0,
     "cutoff_rho": 385.0,
@@ -156,8 +156,8 @@
     ]
   },
   "Al": {
-    "filename": "./Al.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "e37b12aea4a7ee890a331ff340e9dfad",
+    "filename": "pseudo_install/Al.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
+    "md5": "8603568e0b092ac6002233ea90ded6aa",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 29.0,
     "cutoff_rho": 121.0,
@@ -168,8 +168,8 @@
     "semicores": []
   },
   "Si": {
-    "filename": "./Si.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "f180ce37ad47529836dacf688eae3b57",
+    "filename": "pseudo_install/Si.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
+    "md5": "2f2fadda267dbd22f844df6c3323d5c7",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 44.0,
     "cutoff_rho": 175.0,
@@ -180,8 +180,8 @@
     "semicores": []
   },
   "P": {
-    "filename": "./P.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "1a1f543ab0c000905370b7444cb41493",
+    "filename": "pseudo_install/P.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
+    "md5": "7fa0983dd65a922f5b56b305378c65b7",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 34.0,
     "cutoff_rho": 138.0,
@@ -192,8 +192,8 @@
     "semicores": []
   },
   "S": {
-    "filename": "./S.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "51ca120ea99d05e8cbc8d67f1b00e84e",
+    "filename": "pseudo_install/S.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
+    "md5": "1888ec88091fbc32d6e8c9017227a460",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 39.0,
     "cutoff_rho": 157.0,
@@ -204,8 +204,8 @@
     "semicores": []
   },
   "Cl": {
-    "filename": "./Cl.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "ce6f1222813c8c312539cf573e0d5656",
+    "filename": "pseudo_install/Cl.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
+    "md5": "1aaa40c4a7006a23baa36134b47c89fd",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 182.0,
@@ -216,11 +216,11 @@
     "semicores": []
   },
   "Ar": {
-    "filename": "./Ar.rel-pbe-nl-kjpaw_psl.1.0.0.UPF",
-    "md5": "f60e3ef40a36f10e7b756d8b2f99757b",
+    "filename": "pseudo_install/Ar.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "7bff8f0fe67f22b55e13dff25e0eb763",
     "pseudopotential": "100PAW",
-    "cutoff_wfc": 46.0,
-    "cutoff_rho": 189.0,
+    "cutoff_wfc": 48.0,
+    "cutoff_rho": 225.0,
     "pswfcs": [
       "3S",
       "3P"
@@ -228,8 +228,8 @@
     "semicores": []
   },
   "K": {
-    "filename": "./K.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "9777db68f4233338456772e39c0d9ba7",
+    "filename": "pseudo_install/K.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "9d8319e24d37a63b3f5001d557e1418a",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 41.0,
     "cutoff_rho": 277.0,
@@ -245,8 +245,8 @@
     ]
   },
   "Ca": {
-    "filename": "./Ca.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "0f1cd6a6857310e2e97487a1d3fa03b1",
+    "filename": "pseudo_install/Ca.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "72fbe3e93cd36ebee05e133e448dce26",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 274.0,
@@ -262,8 +262,8 @@
     ]
   },
   "Sc": {
-    "filename": "./Sc.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "53b23db25251aa82389b5d1d32173f39",
+    "filename": "pseudo_install/Sc.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "552fa75300d239cdb4413d1eac98d48c",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 50.0,
     "cutoff_rho": 402.0,
@@ -279,8 +279,8 @@
     ]
   },
   "Ti": {
-    "filename": "./Ti.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "28167b9b530f8ab18939db9c6affbfac",
+    "filename": "pseudo_install/Ti.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "cc20945288f03d965ca1bdfdb5c7af61",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 52.0,
     "cutoff_rho": 575.0,
@@ -296,8 +296,8 @@
     ]
   },
   "V": {
-    "filename": "./V.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
-    "md5": "0752229505ed0d016884a33e5fdeae7b",
+    "filename": "pseudo_install/V.rel-pbe-spnl-kjpaw_psl.1.0.0.UPF",
+    "md5": "e977907b3d84fd67c1b4d432f1cac99b",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 48.0,
     "cutoff_rho": 645.0,
@@ -313,8 +313,8 @@
     ]
   },
   "Cr": {
-    "filename": "./Cr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "5099352f8306aa88385736889b27ce81",
+    "filename": "pseudo_install/Cr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "1e24e2b5251376a8b945118fca0c7981",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 48.0,
     "cutoff_rho": 457.0,
@@ -330,8 +330,8 @@
     ]
   },
   "Mn": {
-    "filename": "./Mn.rel-pbe-spn-kjpaw_psl.0.3.1.UPF",
-    "md5": "92351572830f79ea9527b690fc428943",
+    "filename": "pseudo_install/Mn.rel-pbe-spn-kjpaw_psl.0.3.1.UPF",
+    "md5": "dfba1c7561257014502ac20495784078",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 244.0,
@@ -347,21 +347,25 @@
     ]
   },
   "Fe": {
-    "filename": "./Fe.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "f6317495cff378d7d04d9e9b1611b5c8",
+    "filename": "pseudo_install/Fe.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "35347985ef08859638de3692e9baaf78",
     "pseudopotential": "100PAW",
-    "cutoff_wfc": 46.0,
-    "cutoff_rho": 237.0,
+    "cutoff_wfc": 71.0,
+    "cutoff_rho": 496.0,
     "pswfcs": [
+      "3S",
       "4S",
-      "4P",
+      "3P",
       "3D"
     ],
-    "semicores": []
+    "semicores": [
+      "3S",
+      "3P"
+    ]
   },
   "Co": {
-    "filename": "./Co.rel-pbe-spn-kjpaw_psl.0.3.1.UPF",
-    "md5": "f3e75ff854317fdfd32cf3a24ccfad82",
+    "filename": "pseudo_install/Co.rel-pbe-spn-kjpaw_psl.0.3.1.UPF",
+    "md5": "c7d2b4999b9b1346d82f91e66db16ece",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 60.0,
     "cutoff_rho": 450.0,
@@ -377,21 +381,25 @@
     ]
   },
   "Ni": {
-    "filename": "./Ni.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "c9b3ea9912b082143b0c1e574a42fa3a",
+    "filename": "pseudo_install/Ni.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "14b1cfadbfd847dd2c10390e1efa1736",
     "pseudopotential": "100PAW",
-    "cutoff_wfc": 41.0,
-    "cutoff_rho": 236.0,
+    "cutoff_wfc": 75.0,
+    "cutoff_rho": 478.0,
     "pswfcs": [
+      "3S",
       "4S",
-      "4P",
+      "3P",
       "3D"
     ],
-    "semicores": []
+    "semicores": [
+      "3S",
+      "3P"
+    ]
   },
   "Cu": {
-    "filename": "./Cu.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "1a8885e7529b3cf80ed4fcfa6bee4513",
+    "filename": "pseudo_install/Cu.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "685c458065e0290f618c4a0502362fc1",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 236.0,
@@ -403,8 +411,8 @@
     "semicores": []
   },
   "Zn": {
-    "filename": "./Zn.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "63c71989321a40510c716e998341ef07",
+    "filename": "pseudo_install/Zn.rel-pbe-dnl-kjpaw_psl.1.0.0.UPF",
+    "md5": "fb1d41a37581caea8740f542fa3410bf",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 44.0,
     "cutoff_rho": 276.0,
@@ -416,8 +424,8 @@
     "semicores": []
   },
   "Ga": {
-    "filename": "./Ga.rel-pbe-dnl-kjpaw_psl.1.0.0.UPF",
-    "md5": "635aae567af6f9d7fd182c2edf54ec51",
+    "filename": "pseudo_install/Ga.rel-pbe-dnl-kjpaw_psl.1.0.0.UPF",
+    "md5": "b08e22b1d37c8cde44286e4f80e41096",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 44.0,
     "cutoff_rho": 240.0,
@@ -431,8 +439,8 @@
     ]
   },
   "Ge": {
-    "filename": "./Ge.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "7432cd9c0bf90ac2274445a00251d865",
+    "filename": "pseudo_install/Ge.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "b5873b046eebfd6239f19c32a73b61dd",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 20.0,
     "cutoff_rho": 116.0,
@@ -443,8 +451,8 @@
     "semicores": []
   },
   "As": {
-    "filename": "./As.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "8cdd335866ef1bbeb2bd19fba8e74ff8",
+    "filename": "pseudo_install/As.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "64fce746f52c6128fdf7901f08bfcabb",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 20.0,
     "cutoff_rho": 103.0,
@@ -455,8 +463,8 @@
     "semicores": []
   },
   "Se": {
-    "filename": "./Se.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "b8bb9285f89394864e77a6b2c4517542",
+    "filename": "pseudo_install/Se.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "c57aeb42e1736c5d96bbb16beed8c03e",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 22.0,
     "cutoff_rho": 117.0,
@@ -467,8 +475,8 @@
     "semicores": []
   },
   "Br": {
-    "filename": "./Br.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "89bae4e2361026da698466cebc91a972",
+    "filename": "pseudo_install/Br.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "607cf9a8bc29ab81ba9cc3e40c68b5e9",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 49.0,
     "cutoff_rho": 243.0,
@@ -479,8 +487,8 @@
     "semicores": []
   },
   "Kr": {
-    "filename": "./Kr.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "90592c3a4b88f583e4cc4561aedc3870",
+    "filename": "pseudo_install/Kr.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "2b9a82e44cb7692ad01e4a272cc510b7",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 63.0,
     "cutoff_rho": 305.0,
@@ -494,8 +502,8 @@
     ]
   },
   "Rb": {
-    "filename": "./Rb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "788c53cc0630186e1a5b7146f410c572",
+    "filename": "pseudo_install/Rb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "f262b9acce4965c94454ac3028ead90f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 35.0,
     "cutoff_rho": 259.0,
@@ -511,8 +519,8 @@
     ]
   },
   "Sr": {
-    "filename": "./Sr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "2996b9a1c8f99d0c727ed28fe5db0764",
+    "filename": "pseudo_install/Sr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "29a0b1eb8c76fb9ad17737588e801ee1",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 39.0,
     "cutoff_rho": 263.0,
@@ -528,8 +536,8 @@
     ]
   },
   "Y": {
-    "filename": "./Y.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "314eb18f5f4dd73805149779e462c153",
+    "filename": "pseudo_install/Y.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "fd680bd0e1485fe407cd35146ec60b30",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 39.0,
     "cutoff_rho": 257.0,
@@ -546,8 +554,8 @@
     ]
   },
   "Zr": {
-    "filename": "./Zr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "48963e52958cb442d202581ca3619c10",
+    "filename": "pseudo_install/Zr.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "1e2ec7b1d5fa9b223e51cddc9b0ada63",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 268.0,
@@ -564,8 +572,8 @@
     ]
   },
   "Nb": {
-    "filename": "./Nb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "83b8dd804d52d2aaec94d462bb1db868",
+    "filename": "pseudo_install/Nb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "2306cb666db741a7975d44936f4113f9",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 48.0,
     "cutoff_rho": 266.0,
@@ -582,8 +590,8 @@
     ]
   },
   "Mo": {
-    "filename": "./Mo.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "6f29fed902dcf1ef60939013db5c8d6e",
+    "filename": "pseudo_install/Mo.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "6cda9dff73cdab358834687290e4775f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 49.0,
     "cutoff_rho": 307.0,
@@ -599,8 +607,8 @@
     ]
   },
   "Tc": {
-    "filename": "./Tc.rel-pbe-spn-kjpaw_psl.0.3.0.UPF",
-    "md5": "23411945dc3f8e26cbb64aafe3ea1868",
+    "filename": "pseudo_install/Tc.rel-pbe-spn-kjpaw_psl.0.3.0.UPF",
+    "md5": "5f2582970073318d70d8745f885458ea",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 63.0,
     "cutoff_rho": 853.0,
@@ -617,8 +625,8 @@
     ]
   },
   "Ru": {
-    "filename": "./Ru.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "5d4404e564c6b7516471dc105b64c23c",
+    "filename": "pseudo_install/Ru.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "bef6ff591f01cbcb98cd5c3cd9671440",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 52.0,
     "cutoff_rho": 368.0,
@@ -634,8 +642,8 @@
     ]
   },
   "Rh": {
-    "filename": "./Rh.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "817be75d1039bb17e21f7a791cb2b8b1",
+    "filename": "pseudo_install/Rh.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "be0a2eb4ef258aa3684c35caeb929b78",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 54.0,
     "cutoff_rho": 453.0,
@@ -651,8 +659,8 @@
     ]
   },
   "Pd": {
-    "filename": "./Pd.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "2ae5d5eae1878d82e4f6f34ebd1e1d10",
+    "filename": "pseudo_install/Pd.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "a714dc8e170841c784d7b7259c5b8e99",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 37.0,
     "cutoff_rho": 448.0,
@@ -664,8 +672,8 @@
     "semicores": []
   },
   "Ag": {
-    "filename": "./Ag.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "198be39e09f31673758d5cbf79b436ae",
+    "filename": "pseudo_install/Ag.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "3d80c1377587b16f7a0a130fe984ec3c",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 182.0,
@@ -677,8 +685,8 @@
     "semicores": []
   },
   "Cd": {
-    "filename": "./Cd.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "30a59bd376d3ccc18d23121d36dad36f",
+    "filename": "pseudo_install/Cd.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "a93254e88be9606c5d1c3af865ba934e",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 37.0,
     "cutoff_rho": 638.0,
@@ -690,8 +698,8 @@
     "semicores": []
   },
   "In": {
-    "filename": "./In.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "3d911fc38d6f7b972e2b5d2e1b893a00",
+    "filename": "pseudo_install/In.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "ec524eff3d3f5f608c97c0d1a988d36f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 41.0,
     "cutoff_rho": 217.0,
@@ -705,8 +713,8 @@
     ]
   },
   "Sn": {
-    "filename": "./Sn.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "b68742be1be1e2a254144f9dc49be12b",
+    "filename": "pseudo_install/Sn.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "6bcaba2b82cf8d008985ef5bb9854e68",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 47.0,
     "cutoff_rho": 250.0,
@@ -720,8 +728,8 @@
     ]
   },
   "Sb": {
-    "filename": "./Sb.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "354aa8bed473c1dda02cceb8289d48fc",
+    "filename": "pseudo_install/Sb.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "fdb47162c1d03e2226be93e80d85f130",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 27.0,
     "cutoff_rho": 242.0,
@@ -732,8 +740,8 @@
     "semicores": []
   },
   "Te": {
-    "filename": "./Te.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "7632ba46b54062dbe2b72f3bd1fac22a",
+    "filename": "pseudo_install/Te.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "6ffde90f16471d786941b44326de665d",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 32.0,
     "cutoff_rho": 157.0,
@@ -744,8 +752,8 @@
     "semicores": []
   },
   "I": {
-    "filename": "./I.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "55ca3671a38fb1267222f181061fd22e",
+    "filename": "pseudo_install/I.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "1650324410fde579213a6e5684c4bdbf",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 37.0,
     "cutoff_rho": 154.0,
@@ -756,8 +764,8 @@
     "semicores": []
   },
   "Xe": {
-    "filename": "./Xe.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "e21dd4104886a9deb15b81f67c5f81f3",
+    "filename": "pseudo_install/Xe.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "10097592cf2890105a7512c6ff9f6bd2",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 212.0,
@@ -771,8 +779,8 @@
     ]
   },
   "Cs": {
-    "filename": "./Cs.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "affd98ae739ab8187142542341f04624",
+    "filename": "pseudo_install/Cs.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "a112b951ec9e765992cdd678db6f3609",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 34.0,
     "cutoff_rho": 243.0,
@@ -787,8 +795,8 @@
     ]
   },
   "Ba": {
-    "filename": "./Ba.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "db538cb4dac65fd995a19a3728573278",
+    "filename": "pseudo_install/Ba.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "e0a6704b63fd109dcd1beae34e497b38",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 38.0,
     "cutoff_rho": 192.0,
@@ -803,8 +811,8 @@
     ]
   },
   "La": {
-    "filename": "./La.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "b0a672805c09f8e6b7d82ca44cf3c6ac",
+    "filename": "pseudo_install/La.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "b0542c53e79b904402c04089a938eaf7",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 75.0,
     "cutoff_rho": 537.0,
@@ -822,8 +830,8 @@
     ]
   },
   "Ce": {
-    "filename": "./Ce.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "f9a9683a1d8e5a8f512ba14a9b6427b8",
+    "filename": "pseudo_install/Ce.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "ac0589d7a8aa323f6f089402d08f5237",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 37.0,
     "cutoff_rho": 179.0,
@@ -840,8 +848,8 @@
     ]
   },
   "Pr": {
-    "filename": "./Pr.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "e0738d03b182ea7b5a33ac2c805f305a",
+    "filename": "pseudo_install/Pr.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "bb1b2b058161422b68becb8df0d1f262",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 41.0,
     "cutoff_rho": 310.0,
@@ -858,8 +866,8 @@
     ]
   },
   "Nd": {
-    "filename": "./Nd.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "1002183f018cc6fabcfcace037fc1085",
+    "filename": "pseudo_install/Nd.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "6ff95a8fee99aa3d44d5d8ac73bb2e80",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 38.0,
     "cutoff_rho": 202.0,
@@ -876,8 +884,8 @@
     ]
   },
   "Pm": {
-    "filename": "./Pm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "8b24a9e161df59c32c16a450f452fb84",
+    "filename": "pseudo_install/Pm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "a2e5bc1f9393ebaa72fc7e86f1554155",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 34.0,
     "cutoff_rho": 198.0,
@@ -894,8 +902,8 @@
     ]
   },
   "Sm": {
-    "filename": "./Sm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "29c1e321d6a55a2308ee45cada5c08f7",
+    "filename": "pseudo_install/Sm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "b6519f5cc08770db5cfae66c810ff3b8",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 34.0,
     "cutoff_rho": 195.0,
@@ -912,8 +920,8 @@
     ]
   },
   "Eu": {
-    "filename": "./Eu.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "154b63e023ae85e7011288fa125dd987",
+    "filename": "pseudo_install/Eu.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "0f4890f90715dec083c371bcc9b256a7",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 34.0,
     "cutoff_rho": 258.0,
@@ -930,8 +938,8 @@
     ]
   },
   "Gd": {
-    "filename": "./Gd.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "1a18d381fdbb0eff8584361b2cb42af4",
+    "filename": "pseudo_install/Gd.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "cf50ec46d1536b4a0251694df1946a53",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 35.0,
     "cutoff_rho": 227.0,
@@ -948,8 +956,8 @@
     ]
   },
   "Tb": {
-    "filename": "./Tb.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "20f01744aa01e603586555127f536d59",
+    "filename": "pseudo_install/Tb.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "700eebc4f50079decd557a28dc109dda",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 37.0,
     "cutoff_rho": 229.0,
@@ -966,8 +974,8 @@
     ]
   },
   "Dy": {
-    "filename": "./Dy.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "b1ef6aeefb7c72c96b76d6970f5d97ad",
+    "filename": "pseudo_install/Dy.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "42720cd9d253473921ac26539f12d6ce",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 38.0,
     "cutoff_rho": 266.0,
@@ -984,8 +992,8 @@
     ]
   },
   "Ho": {
-    "filename": "./Ho.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "9bfe963e38c4b11280412655db7a195f",
+    "filename": "pseudo_install/Ho.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "4e7d248ab65f475caafadc0ff536b909",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 39.0,
     "cutoff_rho": 269.0,
@@ -1002,8 +1010,8 @@
     ]
   },
   "Er": {
-    "filename": "./Er.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "3e8f5f5ac10823f34ce1fe1beef6ed03",
+    "filename": "pseudo_install/Er.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "8c298ca11345cf5d9b596ed50b214319",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 41.0,
     "cutoff_rho": 267.0,
@@ -1020,8 +1028,8 @@
     ]
   },
   "Tm": {
-    "filename": "./Tm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "3598655a7097680da28c4476c9a423a5",
+    "filename": "pseudo_install/Tm.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "5d7679c4767fe0044790657f41612833",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 42.0,
     "cutoff_rho": 319.0,
@@ -1038,8 +1046,8 @@
     ]
   },
   "Yb": {
-    "filename": "./Yb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "c369d3f507209c0f9c54fc6cfbcd95a8",
+    "filename": "pseudo_install/Yb.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "0fbbf752bbc253549dc5dfd7522b5c46",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 41.0,
     "cutoff_rho": 283.0,
@@ -1056,8 +1064,8 @@
     ]
   },
   "Lu": {
-    "filename": "./Lu.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "0e929a1d8f428358333586a1dd78bdab",
+    "filename": "pseudo_install/Lu.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "fad49a86ec33ae00582513928e6a0c76",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 346.0,
@@ -1074,8 +1082,8 @@
     ]
   },
   "Hf": {
-    "filename": "./Hf.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "37cca0aa708685186dce52405c42c172",
+    "filename": "pseudo_install/Hf.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "8ce506c0f46fc2cc302dfd56fbe7bf7a",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 47.0,
     "cutoff_rho": 265.0,
@@ -1091,8 +1099,8 @@
     ]
   },
   "Ta": {
-    "filename": "./Ta.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "251a8a943be944947921993e07e16a9c",
+    "filename": "pseudo_install/Ta.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "6e1ba5769453fa802ec161040803b94f",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 44.0,
     "cutoff_rho": 265.0,
@@ -1108,8 +1116,8 @@
     ]
   },
   "W": {
-    "filename": "./W.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "fa1504f3cd7dc64c5740eb6672801195",
+    "filename": "pseudo_install/W.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "51235a9978e123729cef7a6d558439d4",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 55.0,
     "cutoff_rho": 373.0,
@@ -1126,8 +1134,8 @@
     ]
   },
   "Re": {
-    "filename": "./Re.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "41dee8d8a6b162b8d0e10cde65d45cac",
+    "filename": "pseudo_install/Re.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "bab10902f3fc225f315186e6d4fb561d",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 54.0,
     "cutoff_rho": 290.0,
@@ -1143,8 +1151,8 @@
     ]
   },
   "Os": {
-    "filename": "./Os.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
-    "md5": "dbaf839f97fb034c4168967162fc2b14",
+    "filename": "pseudo_install/Os.rel-pbe-spn-kjpaw_psl.1.0.0.UPF",
+    "md5": "51c2f091ef93c19d3c8bc1be2c896382",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 54.0,
     "cutoff_rho": 270.0,
@@ -1160,8 +1168,8 @@
     ]
   },
   "Ir": {
-    "filename": "./Ir.rel-pbe-n-kjpaw_psl.0.2.3.UPF",
-    "md5": "91b5fd3f14f95b52244e0b390ff9be1d",
+    "filename": "pseudo_install/Ir.rel-pbe-n-kjpaw_psl.0.2.3.UPF",
+    "md5": "7464b96378ac869c952ab691ff2c142a",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 40.0,
     "cutoff_rho": 526.0,
@@ -1173,8 +1181,8 @@
     "semicores": []
   },
   "Pt": {
-    "filename": "./Pt.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "dfc6cb845f7a8762af9f0422d8e5f4d9",
+    "filename": "pseudo_install/Pt.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "0dcc0e6bd842dd014541fe5e1bebba10",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 40.0,
     "cutoff_rho": 433.0,
@@ -1186,8 +1194,8 @@
     "semicores": []
   },
   "Au": {
-    "filename": "./Au.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "d1454ad62157cdad763f059e3d579d9b",
+    "filename": "pseudo_install/Au.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "b87bb77ae6867f007b35a4e582de23d4",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 42.0,
     "cutoff_rho": 423.0,
@@ -1199,8 +1207,8 @@
     "semicores": []
   },
   "Hg": {
-    "filename": "./Hg.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
-    "md5": "db36041a487d669a69b8a2ace2875ba8",
+    "filename": "pseudo_install/Hg.rel-pbe-n-kjpaw_psl.1.0.0.UPF",
+    "md5": "6e7b0decf2762d189d0a600be1e5846d",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 43.0,
     "cutoff_rho": 415.0,
@@ -1212,8 +1220,8 @@
     "semicores": []
   },
   "Tl": {
-    "filename": "./Tl.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "3f1c5eea196ace68394f7f2b0404c816",
+    "filename": "pseudo_install/Tl.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "add605f074e4fa0ec7ec06e2454b19f5",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 210.0,
@@ -1227,8 +1235,8 @@
     ]
   },
   "Pb": {
-    "filename": "./Pb.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "951d4f38dc0863a3765fd2f219e036e1",
+    "filename": "pseudo_install/Pb.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "e49cd5e0d5070c0a75e92fa0a9ace710",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 46.0,
     "cutoff_rho": 211.0,
@@ -1242,8 +1250,8 @@
     ]
   },
   "Bi": {
-    "filename": "./Bi.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "817aa395226a591ed54c47f3c4991d75",
+    "filename": "pseudo_install/Bi.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "a2fd874d7f712db44af558c1e47d3b28",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 456.0,
@@ -1257,8 +1265,8 @@
     ]
   },
   "Po": {
-    "filename": "./Po.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "2ac1bb64633d5331edec043508eda076",
+    "filename": "pseudo_install/Po.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "c1d82601782829f2bd78463fb241e97a",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 85.0,
     "cutoff_rho": 457.0,
@@ -1272,8 +1280,8 @@
     ]
   },
   "At": {
-    "filename": "./At.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "e634a0add161cff24ab5dd7d2d728fa2",
+    "filename": "pseudo_install/At.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "c0dd30d4e93ba7514619d0c6dc065c5a",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 50.0,
     "cutoff_rho": 473.0,
@@ -1287,8 +1295,8 @@
     ]
   },
   "Rn": {
-    "filename": "./Rn.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
-    "md5": "da92fa77897048e649326044deb2ea1f",
+    "filename": "pseudo_install/Rn.rel-pbe-dn-kjpaw_psl.1.0.0.UPF",
+    "md5": "1156f8d53df07c76c6e1eccde6d42143",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 50.0,
     "cutoff_rho": 220.0,
@@ -1302,8 +1310,8 @@
     ]
   },
   "Fr": {
-    "filename": "./Fr.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "8d8d260d429a4db6fd0a175a98ca05c1",
+    "filename": "pseudo_install/Fr.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "0e717d8e6ffb84a12ff4b3ea0f1965c0",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 67.0,
     "cutoff_rho": 508.0,
@@ -1320,8 +1328,8 @@
     ]
   },
   "Ra": {
-    "filename": "./Ra.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
-    "md5": "659e1bec4d62cc9b6bc1c5b66ccacacf",
+    "filename": "pseudo_install/Ra.rel-pbe-spdn-kjpaw_psl.1.0.0.UPF",
+    "md5": "a50650454229b68ce33d2bac4ee18716",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 82.0,
     "cutoff_rho": 534.0,
@@ -1338,8 +1346,8 @@
     ]
   },
   "Ac": {
-    "filename": "./Ac.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "d5f4165b7a6d24a85e442c2556800a40",
+    "filename": "pseudo_install/Ac.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "e8e3517250e7f5db38a4f823e9d8df7b",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 48.0,
     "cutoff_rho": 329.0,
@@ -1356,8 +1364,8 @@
     ]
   },
   "Th": {
-    "filename": "./Th.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "b9036443796ef39c1e7a5b5799c6e9e2",
+    "filename": "pseudo_install/Th.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "41f00f31c519dd19b3c396b9be9857e8",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 103.0,
     "cutoff_rho": 414.0,
@@ -1374,8 +1382,8 @@
     ]
   },
   "Pa": {
-    "filename": "./Pa.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "d6c9826e2b9fa6aadb20732727279a96",
+    "filename": "pseudo_install/Pa.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "5ae4273d92b79b6f3060f74e478631c9",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 91.0,
     "cutoff_rho": 447.0,
@@ -1392,8 +1400,8 @@
     ]
   },
   "U": {
-    "filename": "./U.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "2a645cfd2985372dbdb459430013005a",
+    "filename": "pseudo_install/U.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "cdc9612a36cd57600ea475b5246d9738",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 93.0,
     "cutoff_rho": 701.0,
@@ -1410,8 +1418,8 @@
     ]
   },
   "Np": {
-    "filename": "./Np.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "85e12d9c89bc825546c69cb008b96397",
+    "filename": "pseudo_install/Np.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "35915e68fa6a4b3a8cbe18e970f64960",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 111.0,
     "cutoff_rho": 561.0,
@@ -1428,8 +1436,8 @@
     ]
   },
   "Pu": {
-    "filename": "./Pu.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
-    "md5": "5e13d8ad820441fe78c080fb181c8852",
+    "filename": "pseudo_install/Pu.rel-pbe-spfn-kjpaw_psl.1.0.0.UPF",
+    "md5": "e010d28413c0ccffc9c18da7c0afce86",
     "pseudopotential": "100PAW",
     "cutoff_wfc": 45.0,
     "cutoff_rho": 353.0,
