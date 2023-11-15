@@ -54,13 +54,20 @@ class PSHandler(xml.sax.ContentHandler):
         self.znum = 0
 
     def startElement(self, name, attrs):
-        """Read element's index in periodic table."""
+        """
+        If in PP_MESH section, read element's index in periodic table;
+        If in PP_SPIN_ORB, set read wavefunctions flag to True;
+        If in PP_RELWFC, read the orbital labels (5S, 5D, etc.)
+        and calculate the "weight" by taking the principal quantum number
+        and adding 1 for D orbitals, S and P orbitals for the elements in P block,
+        and 2 for F orbitals. This will later be used to identify semicores.
+        """
 
         if name == "PP_MESH":
             try:
                 self.znum = int(float(attrs["zmesh"]))
             except ValueError:
-                print(f"z = {attrs['zmesh']} is not leagl")
+                print(f"z = {attrs['zmesh']} is not acceptable")
 
         if name == "PP_SPIN_ORB":
             # <PP_SPIN_ORB>
