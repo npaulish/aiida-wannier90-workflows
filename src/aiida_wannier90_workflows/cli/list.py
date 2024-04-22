@@ -4,7 +4,7 @@ import click
 from aiida import orm
 from aiida.cmdline.params import options as options_core
 from aiida.cmdline.utils import decorators, echo
-from aiida.cmdline.utils.query.calculation import CalculationQueryBuilder
+from aiida.tools.query.calculation import CalculationQueryBuilder
 
 from .root import cmd_root
 
